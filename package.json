@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/zefe/overview-expresss#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "server-static": "^2.0.5"
   }
 }
